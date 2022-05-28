@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.spekframework.spek2:spek-runner-junit5:2.0.17">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.spekframework.spek2/spek-runner-junit5/2.0.17/e364bb10d6d5333885a4eb68fa8e75c7310b98fa/spek-runner-junit5-2.0.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.spekframework.spek2/spek-runner-junit5/2.0.17/aeca1b0d4a6fe5a7a006c7afd1adb588a912cdb3/spek-runner-junit5-2.0.17-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
